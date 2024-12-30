@@ -1,6 +1,6 @@
 ## Install from archive
 
-[Download Visual Studio Code] (https://code.visualstudio.com/Download)
+[Download Visual Studio Code](https://code.visualstudio.com/Download)
 
 ```bash
 sudo tar -xzf ~/Downloads/code-stable-x64-1683731267.tar.gz -C /opt/
