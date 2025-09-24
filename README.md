@@ -52,7 +52,7 @@ MimeType=x-scheme-handler/vscode;
 
 ```
 sudo mkdir /usr/share/fonts/VsCode/
-sudo cp ~/Downloads/visual-studio-code-config/fonts/* /usr/share/fonts/VsCode/
+sudo cp -r ./fonts/* /usr/share/fonts/VsCode/
 sudo fc-cache -f -v
 ```
 
